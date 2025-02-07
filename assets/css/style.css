@@ -672,7 +672,7 @@ header .container {
   padding: 60px 0;
 }
 
-.footer-top .logo { margin-bottom: 25px; }
+.footer-top .logo {color: var(--golden-puppy); }
 
 .footer-brand { margin-bottom: 40px; }
 
